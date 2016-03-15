@@ -1,0 +1,12 @@
+{
+  "name": "JS1K",
+  "author": "Graham Licence",
+  "license": "MIT",
+  "private": false,
+  "repository": "https://github.com/grahamlicence/js1k-elemental",
+  "version": "1.0.0",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  }
+}
